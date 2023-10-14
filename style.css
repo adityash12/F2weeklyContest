@@ -1,0 +1,98 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+
+.leftnav>div,.people{
+    border: 1px solid black;
+    width: 30px;
+    padding: 10px 20px;
+    border-radius: 5px;
+
+   
+}
+
+
+.line{
+  border-left: 2px solid rgba(46, 41, 41, 0.253);
+  height: 7px;
+    
+}
+.rightSideLine{
+    border: 1px solid rgba(46, 41, 41, 0.253);
+    width: 20px;
+}
+.paddnav{
+    padding: 10px;
+}
+/* i{
+  width: 50px;
+} */
+.library{
+    border: 1px solid rgb(173, 167, 167);
+    border-radius: 5px;
+    padding: 5px 10px;
+    box-shadow: 1px 1px 5px rgb(173, 167, 167);
+    border: none;
+    
+ 
+}
+.rightnav>div{
+    margin: 10px;
+}
+.centernav{
+    border: 1px solid rgb(100, 99, 99);
+    border-radius: 10px;
+    box-shadow: 1px 1px 5px rgb(97, 96, 96);
+    border: none;
+}
+
+
+/* //section */
+.main-sec{
+    height:80vh;
+}
+.topSecPart>img{
+    width: 50px;
+}
+.fold-1,.fold-2,.fold-3,.fold-4{
+    /* border: 2px solid red; */
+    align-items: center !important;
+    width: 80%;
+    margin: auto;
+   
+}
+.topSecPart>h2{
+   
+    font-family: 'Young Serif', serif;
+
+}
+.sec-card>p{
+    font-family: 'Alegreya', serif;
+font-family: 'Josefin Sans', sans-serif;
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;
+font-family: 'Young Serif', serif;
+color: rgb(97, 96, 96) ;
+}
+section i,p,sub{
+color: #b7b7b7;
+}
+
+.shortcut-icon{
+    border: 2px solid rgb(13, 14, 13);
+    padding: 5px 10px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px black;
+    border: none;
+    margin-inline: 10px;
+    
+}
+.shortcut-hand{
+    position: fixed;
+    bottom: 2px;
+    right: 2px;
+}
+
